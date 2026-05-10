@@ -6,7 +6,7 @@
 
 ## הורדת הגרסה האחרונה
 
-לכל גרסה רשמית מצורפים שני קבצי התקנה:
+לכל גרסה מצורפים שני קבצי התקנה:
 
 - **Windows:** `Smart-Tahara-Calendar-Setup-vX.Y.Z.exe`
 - **Android:** `Smart-Tahara-Calendar-vX.Y.Z.apk`
